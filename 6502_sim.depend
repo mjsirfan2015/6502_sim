@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537807831 source:c:\users\irfan\documents\workspace\6502_sim\cpu.cpp
+	<fstream>
+	<iomanip>
+	<iostream>
+	"cpu_utils.h"
+
+1537807872 c:\users\irfan\documents\workspace\6502_sim\cpu_utils.h
+	<fstream>
+	<fstream>
+
